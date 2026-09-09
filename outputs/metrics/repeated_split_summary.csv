@@ -1,0 +1,5 @@
+model,train_cohort,test_cohort,mean_within_roc_auc,mean_external_roc_auc,mean_roc_auc_change,sd_roc_auc_change,external_roc_auc_lower_pct,mean_pr_auc_change,mean_brier_change
+Logistic Regression,Cleveland,Hungary,0.874,0.878,0.004,0.04,56.667,-0.034,-0.009
+Logistic Regression,Hungary,Cleveland,0.897,0.846,-0.052,0.038,83.333,-0.008,0.038
+Random Forest,Cleveland,Hungary,0.866,0.889,0.023,0.037,33.333,-0.027,-0.021
+Random Forest,Hungary,Cleveland,0.893,0.853,-0.04,0.032,90.0,0.008,0.031
