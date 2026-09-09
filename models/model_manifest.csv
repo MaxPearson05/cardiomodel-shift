@@ -1,0 +1,5 @@
+model_key,model_name,train_cohort,training_patients,training_prevalence,model_file
+logistic_regression_cleveland,Logistic Regression,Cleveland,303,0.45874587458745875,logistic_regression_cleveland.joblib
+random_forest_cleveland,Random Forest,Cleveland,303,0.45874587458745875,random_forest_cleveland.joblib
+logistic_regression_hungary,Logistic Regression,Hungary,294,0.36054421768707484,logistic_regression_hungary.joblib
+random_forest_hungary,Random Forest,Hungary,294,0.36054421768707484,random_forest_hungary.joblib
