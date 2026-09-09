@@ -1,0 +1,19 @@
+# Local Python environment
+.venv/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Generated datasets
+data/raw/*
+!data/raw/README.md
+data/processed/*
+!data/processed/README.md
